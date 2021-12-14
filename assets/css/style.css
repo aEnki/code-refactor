@@ -121,4 +121,6 @@ footer {
 
 footer h2 {
     font-size: 20px;
+    /* Makes the emoji have COLOR on win10/chrome devices */
+    font-weight: normal; 
 }
